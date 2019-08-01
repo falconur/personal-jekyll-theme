@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Welcome to personal web-site of Nuriddin Kamardinov"
   - text: "Stop dreaming, start coding"
 
-me-img: "/img/author1.jpg"
+me-img: "/img/author2.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -127,7 +127,7 @@ disqus-shortname: "kamardinov"
 syntax-highlight: True
 
 ############
-# Timeline #
+# Employment #
 ############
 
 events:
@@ -210,7 +210,7 @@ keybase-in-footer: False
 pages_list:
   About: 'about'
   Blog: 'latest-post'
-  Timeline: 'timeline'
+  Employment: 'employment'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
@@ -229,5 +229,3 @@ sass:
 gems:
   - jekyll-paginate
   - jemoji
-
-theme: jekyll-theme-slate
