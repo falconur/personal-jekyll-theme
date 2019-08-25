@@ -115,7 +115,7 @@ email-share: True
 fb-share: True
 twitter-share: True
 linkedin-share: True
-reddit-share: True
+reddit-share: False
 google-plus-share: False
 tumblr-share: False
 pinterest-share: False
