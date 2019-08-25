@@ -11,7 +11,7 @@ Global Korea Scholarship Koreya hukumatining xalqaro talabalarni qo'llab quvatla
 
 Endi o'zimda qanday bo'lganini aytib bersam. GKS dasturiga ancha avval bir saytda ko'zim tushgandi lekin qiziqmagan edim. Ikki haftalar o'tib dedlayn kunigina hujjat topshirishni qaror qildim. Kechgacha hammasini tayyorlab yubordim. Tez orada suhbatni vaqtini ma'lum qilib javob xati keldi. Suhbat kutganimdan qisqa, 5 daqiqagina davom etdi. Suhbatdan maqsad sizni ingliz tili bilimingiz darajasini aniqlash ekan. Uzoq kuttirib muvaffiqayatli o'tganim haqidgi xabar ham keldi. Vizani olgandan so'ng esa safarga tayyorgarlikni boshladim.
 
-Qisqa satrlarda GKS menga qanday imkoniyatlarni taqdim etganligini sanab o'tsam:
+Qisqa satrlarda GKS menga qanday imkoniyatlarni taqdim etganligini sanab o'taman:
 
 <ol style="text-align: left">
 <li> Birinchi marta samolyotda parvoz. </li>
