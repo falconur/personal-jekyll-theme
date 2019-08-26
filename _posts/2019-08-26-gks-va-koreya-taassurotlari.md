@@ -7,19 +7,18 @@ tags: [ 'Korea', 'gks', 'grant', 'opportunity' ]
 ---
 
 ### GKS
-Global Korea Scholarship Koreya hukumatining xalqaro talabalarni qo'llab quvatlash loyihasi. GKS doirasida ko'plab dasturlar mavjud. Bu yildan boshlab esa ["GKS for Central Asian Undergradute Students"](https://www.studyinkorea.go.kr/en/sub/gks/selectBoardArticle.do) yozgi ta'lim dasturini ham yo'lga qo'ydi. Bu dastur Markaziy Osiyolik 80 ta talabaga yozgi ta'tilda o'z bilim va ko'nikmalarini oshirish hamda Koreya madaniyati bilan tanishish imkoniyatini taqdim etadi. Agar dastur ishtirokchisiga aylansangiz, tashkilot sizni Koreyaga borish-kelish harajatingizni, hamda 5 hafta davomida Koreyada turar-joy va ovqat bilan ta'minlaydi. Albatta, bu imkoniyatni qo'lga kiritish hammaga ham nasib qilmaydi, ammo unchalik qiyin ham emas. Talab qilingan hujjatlarni yuborasiz va Skype orqali suhbatdan o'tishingiz kifoya.
+Global Korea Scholarship Koreya hukumatining xalqaro talabalarni qo'llab quvatlash loyihasi. GKS doirasida ko'plab dasturlar mavjud. Bu yildan boshlab esa "GKS for Central Asian Undergradute Students" yozgi ta'lim dasturini ham yo'lga qo'ydi. Bu dastur Markaziy Osiyolik 80 ta talabaga yozgi ta'tilda o'z bilim va ko'nikmalarini oshirish hamda Koreya madaniyati bilan tanishish imkoniyatini taqdim etadi. Agar dastur ishtirokchisiga aylansangiz, tashkilot sizni Koreyaga borish-kelish harajatingizni, hamda 5 hafta davomida Koreyada turar-joy va ovqat bilan ta'minlaydi. Albatta, bu imkoniyatni qo'lga kiritish hammaga ham nasib qilmaydi, ammo unchalik qiyin ham emas. Talab qilingan hujjatlarni yuborasiz va Skype orqali suhbatdan o'tishingiz kifoya.
 
 Endi o'zimda qanday bo'lganini aytib bersam. GKS dasturiga ancha avval bir saytda ko'zim tushgandi lekin qiziqmagan edim. Ikki haftalar o'tib dedlayn kunigina hujjat topshirishni qaror qildim. Kechgacha hammasini tayyorlab yubordim. Tez orada suhbatni vaqtini ma'lum qilib javob xati keldi. Suhbat kutganimdan qisqa, 5 daqiqagina davom etdi. Suhbatdan maqsad sizni ingliz tili bilimingiz darajasini aniqlash ekan. Uzoq kuttirib muvaffiqayatli o'tganim haqidgi xabar ham keldi. Vizani olgandan so'ng esa safarga tayyorgarlikni boshladim.
 
 Qisqa satrlarda GKS menga qanday imkoniyatlarni taqdim etganligini sanab o'taman:
-
 <ol style="text-align: left">
 <li> Birinchi marta samolyotda parvoz. </li>
 <li> Janubiy Koreaning 8 ta shahriga sayohat (Gumi, Kyonju, Degu, Paju, Pohang, Seul, Pusan, Yongdok). </li>
 <li> Dengiz (bunga ortiqcha ta'rifni keragai ham yo'q). </li>
 <li> Balandligi bo'yicha jahonda 5-o'rindagi Lotte World Tower minorasidan Seul shahrini tomosha qilish. </li>
 <li> Dengiz sathidam 976 metr balandlikdagi tog' cho'qqisiga chiqish. </li>
-<li> Markaziy Osiya va Janubi-Sharqiy Osiyolik do'stlar orttirish. </li>
+<li> Markaziy Osiya, Janubi-Sharqiy Osiyo va Koreyalik do'stlar orttirish. </li>
 </ol>
 
 5 hafta davomida esa quyidagilarni o'rgandim:
