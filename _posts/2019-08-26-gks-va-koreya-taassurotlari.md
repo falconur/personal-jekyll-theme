@@ -41,12 +41,12 @@ Koreaga borishim bilanoq tabiati hayron qoldirdi. Hududining 80% tog'lar bilan q
 Havo-harorati namlik juda yuqori. Biz kabi quruq o'lkalardan kelganlarga bu darrov sezilsa kerak. Yozda harorat biznikichalik baland bo'lmasada namlik sabab juda yoqimsiz issiq havo hosil bo'ladi. Agar Koreyaga sayohat qilmoqchi bo'lsangiz yozda, ayniqsa avgust oyida bormaganiz maqul.
 
 #### Taomlar
-Hmmm... Kimga qanaqa. Masalan, menga yoqdi. Achchiq katta me'yorda istemol qilishadi. Agar achchiq taomlar bilan munosabatingiz yaxshi bo'lmasa koreys taomlarini tanlayotganda ehtiyot bo'ling. Yana bir gap, ovqat tanlayatganda albatta tarkibini tekshiring, halol va haromni unutmang.
+Hmmm... Kimga qanaqa. Masalan, menga yoqdi. Achchiq juda ko'p istemol qilishadi. Agar achchiq taomlar bilan munosabatingiz yaxshi bo'lmasa koreys taomlarini tanlayotganda ehtiyot bo'ling. Yana bir gap, ovqat tanlayatganda albatta tarkibini tekshiring, halol va haromni unutmang.
 
 #### Xalqi
 Koreyaliklarda sharq madaniyati sezilib turadi. Mehmondo'stlik, hushmuomalalik kabi sifatlarga ega xalq doim yordamga shay. Ingliz tili bilan Seul, Pusan kabi katta shaharlarda qiynalmaysiz. Kichikroq shaharlarda ingliz tilini biladiganlar ancha kam. Lekin shunda ham Google translate orqali bo'lsa muloqot o'rnatib, yordam beradiganlar topiladi. 
 
-Bularninch barchasi 5 haftalik sayohatimning xulosalari xolos, va ularning ayrinmarli haqiqatdan yiroq bo'lishi ham mumkin.
+Bularning barchasi 5 haftalik sayohatimning xulosalari xolos, va ularning ayrinmarli haqiqatdan yiroq bo'lishi ham mumkin.
 
 Maqolani yaxshi yangilik bilan yakunlamoqchiman. GKS bu yil 80 ta talabaga yuqoridagi imkoniyatlarni taqdim etan bo'lsa, kelasi yil buni 100-120 tagacha ko'paytirmoqchi. Va bu imkoniyat sizga ham nasib qilishi mumkin. Grantlar va yozgi dasturlar haqidagi xabarlarni kuzatib borishni unutmang.
 
