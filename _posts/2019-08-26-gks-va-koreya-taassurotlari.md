@@ -14,11 +14,11 @@ Endi o'zimda qanday bo'lganini aytib bersam. GKS dasturiga ancha avval bir saytd
 Qisqa satrlarda GKS menga qanday imkoniyatlarni taqdim etganligini sanab o'taman:
 <ol style="text-align: left">
 <li> Birinchi marta samolyotda parvoz. </li>
-<li> Janubiy Koreaning 8 ta shahriga sayohat (Gumi, Kyonju, Degu, Paju, Pohang, Seul, Pusan, Yongdok). </li>
+<li> Janubiy Koreyaning 8 ta shahriga sayohat (Gumi, Kyonju, Degu, Paju, Pohang, Seul, Pusan, Yongdok). </li>
 <li> Dengiz (bunga ortiqcha ta'rifni keragai ham yo'q). </li>
 <li> Balandligi bo'yicha jahonda 5-o'rindagi Lotte World Tower minorasidan Seul shahrini tomosha qilish. </li>
 <li> Dengiz sathidam 976 metr balandlikdagi tog' cho'qqisiga chiqish. </li>
-<li> Markaziy Osiya, Janubi-Sharqiy Osiyo va Koreyalik do'stlar orttirish. </li>
+<li> Markaziy Osiyo, Janubi-Sharqiy Osiyo va Koreyalik do'stlar orttirish. </li>
 </ol>
 
 5 hafta davomida esa quyidagilarni o'rgandim:
@@ -35,10 +35,10 @@ Qisqa satrlarda GKS menga qanday imkoniyatlarni taqdim etganligini sanab o'taman
 Endi Koreya haqida 2 og'iz gap aytsam. 
 
 #### Tabiati
-Koreaga borishim bilanoq tabiati hayron qoldirdi. Hududining 80% tog'lar bilan qoplangan mamlakatda shaharlar va tog'lar qorishib ketgan. Tog'lar esa to'liq daraxtlar bilan qoplangan, birorta ochiq joy ko'rinmaydi. Hamma joy yam-yashil. Katta shaharlarda esa daraxtlar siyraklashadi. 
+Koreyaga borishim bilanoq tabiati hayron qoldirdi. Hududining 80% tog'lar bilan qoplangan mamlakatda shaharlar va tog'lar qorishib ketgan. Tog'lar esa to'liq daraxtlar bilan qoplangan, birorta ochiq joy ko'rinmaydi. Hamma joy yam-yashil. Katta shaharlarda esa daraxtlar siyraklashadi. 
 
 #### Ob-havo
-Havo-harorati namlik juda yuqori. Biz kabi quruq o'lkalardan kelganlarga bu darrov sezilsa kerak. Yozda harorat biznikichalik baland bo'lmasada namlik sabab juda yoqimsiz issiq havo hosil bo'ladi. Agar Koreyaga sayohat qilmoqchi bo'lsangiz yozda, ayniqsa avgust oyida bormaganiz maqul.
+Havo-harorati namlik juda yuqori. Biz kabi quruq o'lkalardan kelganlarga bu darrov sezilsa kerak. Yozda harorat biznikichalik baland bo'lmasada namlik sabab juda yoqimsiz issiq havo hosil bo'ladi. Agar Koreyaga sayohat qilmoqchi bo'lsangiz yozda, ayniqsa avgust oyida bormaganiz ma'qul.
 
 #### Taomlar
 Hmmm... Kimga qanaqa. Masalan, menga yoqdi. Achchiq juda ko'p istemol qilishadi. Agar achchiq taomlar bilan munosabatingiz yaxshi bo'lmasa koreys taomlarini tanlayotganda ehtiyot bo'ling. Yana bir gap, ovqat tanlayatganda albatta tarkibini tekshiring, halol va haromni unutmang.
@@ -46,7 +46,7 @@ Hmmm... Kimga qanaqa. Masalan, menga yoqdi. Achchiq juda ko'p istemol qilishadi.
 #### Xalqi
 Koreyaliklarda sharq madaniyati sezilib turadi. Mehmondo'stlik, hushmuomalalik kabi sifatlarga ega xalq doim yordamga shay. Ingliz tili bilan Seul, Pusan kabi katta shaharlarda qiynalmaysiz. Kichikroq shaharlarda ingliz tilini biladiganlar ancha kam. Lekin shunda ham Google translate orqali bo'lsa muloqot o'rnatib, yordam beradiganlar topiladi. 
 
-Bularning barchasi 5 haftalik sayohatimning xulosalari xolos, va ularning ayrinmarli haqiqatdan yiroq bo'lishi ham mumkin.
+Bularning barchasi 5 haftalik sayohatimning xulosalari xolos, va ularning ayrimlari haqiqatdan yiroq bo'lishi ham mumkin.
 
 Maqolani yaxshi yangilik bilan yakunlamoqchiman. GKS bu yil 80 ta talabaga yuqoridagi imkoniyatlarni taqdim etan bo'lsa, kelasi yil buni 100-120 tagacha ko'paytirmoqchi. Va bu imkoniyat sizga ham nasib qilishi mumkin. Grantlar va yozgi dasturlar haqidagi xabarlarni kuzatib borishni unutmang.
 

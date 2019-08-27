@@ -186,12 +186,14 @@ social:
     url: "https://www.t.me/falconur"
   - title: "whatsapp"
     url: "https://wa.me/998905433722"
-
+  - title: "medium-m"
+    url: "https://medium.com/@falconur"
+  
 ############
 # 404 page #
 ############
 
-err-404-img: "/img/labtocat.png"
+err-404-img: "/img/jetpacktocat.png"
 
 ##################
 # GPG on Keybase #
