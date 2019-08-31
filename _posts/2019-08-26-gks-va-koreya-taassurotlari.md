@@ -48,6 +48,6 @@ Koreyaliklarda sharq madaniyati sezilib turadi. Mehmondo'stlik, hushmuomalalik k
 
 Bularning barchasi 5 haftalik sayohatimning xulosalari xolos, va ularning ayrimlari haqiqatdan yiroq bo'lishi ham mumkin.
 
-Maqolani yaxshi yangilik bilan yakunlamoqchiman. GKS bu yil 80 ta talabaga yuqoridagi imkoniyatlarni taqdim etan bo'lsa, kelasi yil buni 100-120 tagacha ko'paytirmoqchi. Va bu imkoniyat sizga ham nasib qilishi mumkin. [Rasmiy sayt](https://www.studyinkorea.go.kr/en/main.do){target="_blank"}, shuningdek grantlar va yozgi dasturlar haqidagi xabarlarni kuzatib borishni unutmang. 
+Maqolani yaxshi yangilik bilan yakunlamoqchiman. GKS bu yil 80 ta talabaga yuqoridagi imkoniyatlarni taqdim etan bo'lsa, kelasi yil buni 100-120 tagacha ko'paytirmoqchi. Va bu imkoniyat sizga ham nasib qilishi mumkin. <a href="https://www.studyinkorea.go.kr/en/main.do" target="_blank">Rasmiy sayt</a>, shuningdek grantlar va yozgi dasturlar haqidagi xabarlarni kuzatib borishni unutmang. 
 
 Agar dastur haqida yoki boshqa savollaringiz bo'lsa izohlarda qoldirishingiz mumkin.
