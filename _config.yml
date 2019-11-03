@@ -131,8 +131,11 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/revolution.png"
+    date: "September 2019 - Today"
+    description: "Web Developer <br> REVOLUTION GROUP"
   - image: "/img/timeline/spidertocat.png"
-    date: "March 2019 - Today"
+    date: "March 2019 - August 2019"
     description: "Web Developer <br> FREELANCER"
   - image: "/img/timeline/zerone.png"
     date: "October 2018 - February 2019"
