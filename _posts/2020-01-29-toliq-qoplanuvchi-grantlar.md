@@ -10,7 +10,7 @@ Oxirgi paytlarda bir savolni koʻp uchratyapman: Toʻliq qoplanuvchi (fully fund
 
 Javobim: HA, HAQIQIY. Oʻzim ham bunday grant yutib olganman va mazza qilib foydalanganman =) Bu haqida oldin ham <a href="/travel/2019/08/26/gks-va-koreya-taassurotlari.html">yozgandim.</a>
 
-Agar siz bunday grant yutib olsangiz, yoʻl xarajatlari (aviabilet, poyezd biletlarini olib beriladi), turar-joy va ovqat bilan ta'minlanasiz. Bular toʻgʻridan-toʻgʻri yoki ketadigan xarajatlarga mos miqdorda pul koʻrinishida berilishi ham mumkin.
+Agar siz bunday grant yutib olsangiz, yoʻl xarajatlari (aviabilet, poyezd biletlari olib beriladi), turar-joy va ovqat bilan ta'minlanasiz. Bular toʻgʻridan-toʻgʻri yoki ketadigan xarajatlarga mos miqdorda pul koʻrinishida berilishi ham mumkin.
 
 Shu oʻrinda yana bir savol tugʻiladi. Ular nega biz uchun pul sarflaydi? Axir, "tekin pishloq faqat qopqonda boʻlishi mumkin". Keling, shuni tahlil qilib koʻramiz...
 
