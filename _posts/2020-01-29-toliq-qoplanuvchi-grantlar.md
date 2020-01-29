@@ -25,3 +25,5 @@ Bundan tashqari, diplomatik maqsadlar ham bor. Bu haqida bir doʻstim ham <a hre
 Nima boʻlganda ham bunday grantlar chet elga borish uchun yaxshi imkoniyat. Ulardan esa maksimal foydalanib qolish kerak.
 
 Xullasi kalom, bularning barchasi IMHO.
+
+Aytganchi, bunday grantlarni ushbu <a href="https://t.me/event_uz">havoladan</a> topishingiz mumkin.
