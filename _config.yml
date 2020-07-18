@@ -131,6 +131,9 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/effort.jpg"
+    date: "June 2020 - Today"
+    description: "Co-founder and CEO <br> EFFORT.UZ"
   - image: "/img/timeline/revolution.png"
     date: "September 2019 - Today"
     description: "Web Developer <br> REVOLUTION GROUP"
@@ -174,19 +177,19 @@ email: "nuriddinkamardinov@yandex.com"
 
 social:
   - title: "facebook-f"
-    url: "https://www.facebook.com/people/Nuriddin-Kamardinov/100009207819032"
+    url: "https://facebook.com/kamardinov/"
   - title: "twitter"
     url: "https://twitter.com/NKamardinov"
   - title: "linkedin-in"
-    url: "https://www.linkedin.com/in/nuriddin-kamardinov/"
+    url: "https://linkedin.com/in/nuriddin-kamardinov/"
   - title: "instagram"
-    url: "https://www.instagram.com/n.kamardinov/"
+    url: "https://instagram.com/n.kamardinov/"
   - title: "vk"
     url: "https://vk.com/nuriddinkamardinov"
   - title: "github"
     url: "https://github.com/falconur"
   - title: "telegram-plane"
-    url: "https://www.t.me/falconur"
+    url: "https://t.me/falconur"
   - title: "whatsapp"
     url: "https://wa.me/998905433722"
   - title: "medium-m"
